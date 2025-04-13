@@ -41,6 +41,10 @@
 
 ```
 
+### 2.  Sube tu Código a GitHub 📂
+
+* **Mi repositorio es: [https://github.com/Albertohincapie11/pokedex-alberto]**
+
 ### 3. ¡A Desplegar en Azure! ☁️
 * **Ve al [Azure Portal](https://portal.azure.com) 🚪**
 
