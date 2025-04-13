@@ -85,7 +85,7 @@ Esto generará la carpeta mágica `dist/`, que contiene todos los archivos optim
 [![GitHub Follow](https://img.shields.io/github/followers/Albertohincapie11?style=social&label=Síguelo%20en%20GitHub!)](https://github.com/Albertohincapie11)
 
 ### 🧙‍♂️ **Alberto José Hincapié Martínez**  
-#### *"Ingeniero de Sistemas en Entrenamiento Pokémon"*  
+#### *"Estudiante Apasionado de Ingeniería de Sistemas"*  
 
 [![Portafolio Badge](https://img.shields.io/badge/🎮_Mi_Universo_Digital-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Albertohincapie11)
 
