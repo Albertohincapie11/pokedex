@@ -20,6 +20,8 @@
 
 **Sigue estos pasos para llevar tu Pokédex al mundo con Azure:**
 
+---
+
 ### 1. Prepara tu Proyecto Angular 💪
 
 **Asegúrate de que tu proyecto Angular funciona correctamente en local. Ejecuta `ng serve` para verificarlo.**
