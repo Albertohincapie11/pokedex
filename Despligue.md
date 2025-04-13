@@ -37,8 +37,6 @@
     
     npm run build
 
-```bash
-
     Esto generará la carpeta mágica `dist/`, que contiene todos los archivos optimizados listos para ser desplegados.
 
 ```
