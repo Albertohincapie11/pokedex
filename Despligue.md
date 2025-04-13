@@ -92,12 +92,12 @@ Esto generará la carpeta mágica `dist/`, que contiene todos los archivos optim
 </div>
 
 ### 🏆 Habilidades Especiales:
-- 🛠️ **Auxiliar Multifuncional**: Sistemas/IT/TIC (¡Como un Porygon digital!)
-- 💻 **Desarrollo de Software**: Full Stack Trainer (Angular + Azure)
-- 🔐 **Ciberseguridad**: Protegiendo datos como un Snorlax guardián
-- 🖥️ **Mantenimiento de Computadores**: Curando PCs como un Chansey
+- 🛠️ **Auxiliar Multifuncional**: Apoyo en Sistemas. IT y TIC.
+- 💻 **Desarrollo de Software**: Full Stack Developer (front-end + back-end)
+- 🔐 **Ciberseguridad**: Proteccón de datos y redes.
+- 🖥️ **Mantenimiento de Computadores**: Diagnóstico y reparación de equipos.
 - 🎨 **Herramientas Digitales**: 
-  - Excel (¡Más preciso que un ataque de Precision!)
-  - Photoshop (Ilusionista como Zoroark)
-- ⚕️ **SG-SST (50 Horas)**: Entrenado en seguridad laboral
-- 📢 **Marketing Digital**: Atrapando audiencias como un Jigglypuff
+  - Excel: Analisis de datos.
+  - Photoshop: Diseño y edición gráfica.
+- ⚕️ **SG-SST (50 Horas)**: Formación en seguridad laboral
+- 📢 **Marketing Digital**: Estrategias en SEO y redes sociales.
