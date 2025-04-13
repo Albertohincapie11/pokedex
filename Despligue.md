@@ -67,7 +67,7 @@ Esto generará la carpeta mágica `dist/`, que contiene todos los archivos optim
     * **Build Presets:** Selecciona "Custom" 🛠️
     * **Output folder:** `dist/pokedex-angular`
 
-* Azure creará automáticamente un **flujo de trabajo de GitHub Actions** 🤖. Este flujo se encargará de compilar y desplegar tu Pokédex cada vez que hagas cambios en la rama seleccionada. 
+* Azure generará un **proceso automatizado de GitHub Actions** 🛠️. Este proceso se ocupará de compilar y desplegar tu aplicación cada vez que realices modificaciones en la rama elegida. 🚀
 
 ***
 
