@@ -3,9 +3,8 @@
 # 🎯 Guía Paso a Paso para Registrarte en Azure for Students
 
 <div align="center">
-  <img src="https://azure.microsoft.com/svghandler/student/?width=300&height=300" alt="Azure for Students" width="150" style="pointer-events: none;">
+  <img src="https://azure.microsoft.com/svghandler/student/?width=300&height=300" alt="Azure for Students" width="150">
 </div>
-
 
 ## 📋 Requisitos Iniciales
 - ✔️ Correo electrónico institucional (ej: tu_nombre@universidad.edu)
