@@ -48,9 +48,9 @@ Esto generará la carpeta mágica `dist/`, que contiene todos los archivos optim
 ***
 
 ### 3. ¡Es Hora de Desplegar en Azure! 🚀
-* **Accede al [Azure Portal](https://portal.azure.com) 🚪**
+* **Accede al [Azure Portal](https://portal.azure.com) 🖥️**
 
-* * **Selecciona **"Static Web Apps"** y haz clic en **"Crear"**.**
+* **Selecciona** **"Static Web Apps"** y haz clic en **"Crear"**. 🔨
 
 * **Configura los detalles de tu Web App:**
     * **Nombre de la app:** `pokedex-static` (o el nombre que prefieras 🏷️)
@@ -64,7 +64,7 @@ Esto generará la carpeta mágica `dist/`, que contiene todos los archivos optim
 
 * **Detalles de compilación:**
     * **Ruta de la aplicación:** `dist/pokedex-angular`
-    * **Build Presets:** Selecciona "Custom" �️
+    * **Build Presets:** Selecciona "Custom" 🛠️
     * **Output folder:** `dist/pokedex-angular`
 
 * Azure creará automáticamente un **flujo de trabajo de GitHub Actions** 🤖. Este flujo se encargará de compilar y desplegar tu Pokédex cada vez que hagas cambios en la rama seleccionada. 
