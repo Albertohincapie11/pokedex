@@ -28,18 +28,18 @@
 **Construye tu proyecto para producción:**
 ***
 
-```bash
-    Abre una terminal desde la carpeta raiz:
-    
-    cd "sistemas-distribuidos\poke-dex-lab\source\pokedex-angular\"
-    
-    npm install
-    
-    npm run build
+Abre una terminal desde la carpeta raíz:
 
-    Esto generará la carpeta mágica `dist/`, que contiene todos los archivos optimizados listos para ser desplegados.
+1. Navega a la carpeta de tu proyecto:
+   `cd "sistemas-distribuidos\poke-dex-lab\source\pokedex-angular\"`
 
-```
+2. Instala las dependencias:
+   `npm install`
+
+3. Ejecuta el comando para compilar el proyecto:
+   `npm run build`
+
+Esto generará la carpeta mágica `dist/`, que contiene todos los archivos optimizados listos para ser desplegados.
 
 ### 2.  Sube tu Código a GitHub 📂
 
