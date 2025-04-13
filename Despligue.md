@@ -54,14 +54,14 @@ Esto generará la carpeta mágica `dist/`, que contiene todos los archivos optim
 * **Busca y selecciona **"Static Web Apps"** y haz clic en **"Crear"**.**
 
 * **Configura los detalles de tu Web App:**
-    * **Nombre de la app:** pokedex-static (o el nombre que prefieras 🏷️)
+    * **Nombre de la app:** `pokedex-static` (o el nombre que prefieras 🏷️)
     * **Plan de hosting:** Selecciona el plan **"Gratis"** para empezar 🆓
     * **Origen del código:** Elige **"GitHub"** 🐙
 
 * **Detalles del repositorio:**
     * Autoriza Azure para acceder a tu cuenta de GitHub
-    * Selecciona tu repositorio (pokedex-alberto)
-    * Elige la rama que quieres desplegar (normalmente main o master)
+    * Selecciona tu repositorio (`pokedex-alberto`)
+    * Elige la rama que quieres desplegar (normalmente `main` o `master`)
 
 * **Detalles de compilación:**
     * **Ruta de la aplicación:** `dist/pokedex-angular`
