@@ -51,7 +51,6 @@ Esto generará la carpeta mágica `dist/`, que contiene todos los archivos optim
 * **Accede al [Azure Portal](https://portal.azure.com) 🚪**
 
 * **Selecciona **"Static Web Apps"** y haz clic en **"Crear"**.**
-  **Busca Static Web Apps y selecciona la opción para crear una nueva.**
 
 * **Configura los detalles de tu Web App:**
     * **Nombre de la app:** `pokedex-static` (o el nombre que prefieras 🏷️)
