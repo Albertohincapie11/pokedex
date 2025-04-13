@@ -59,9 +59,9 @@ Esto generará la carpeta mágica `dist/`, que contiene todos los archivos optim
     * **Origen del código:** Elige **"GitHub"** 🐙
 
 * **Detalles del repositorio:**
-    * **Autoriza Azure para acceder a tu cuenta de GitHub
-    * **Selecciona tu repositorio (pokedex-alberto)
-    * **Elige la rama que quieres desplegar (normalmente main o master)
+    * Autoriza Azure para acceder a tu cuenta de GitHub
+    * Selecciona tu repositorio (pokedex-alberto)
+    * Elige la rama que quieres desplegar (normalmente main o master)
 
 * **Detalles de compilación:**
     * **Ruta de la aplicación:** `dist/pokedex-angular`
