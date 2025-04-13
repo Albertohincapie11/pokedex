@@ -48,14 +48,15 @@ Esto generará la carpeta mágica `dist/`, que contiene todos los archivos optim
 ***
 
 ### 3. ¡Es Hora de Desplegar en Azure! 🚀
-* **Ve al [Azure Portal](https://portal.azure.com) 🚪**
+* **Accede al [Azure Portal](https://portal.azure.com) 🚪**
 
-* **Busca y selecciona **"Static Web Apps"** y haz clic en **"Crear"**.**
+* **Selecciona **"Static Web Apps"** y haz clic en **"Crear"**.**
+* Busca Static Web Apps y selecciona la opción para crear una nueva.
 
 * **Configura los detalles de tu Web App:**
     * **Nombre de la app:** `pokedex-static` (o el nombre que prefieras 🏷️)
-    * **Plan de hosting:** Selecciona el plan **"Gratis"** para empezar 🆓
-    * **Origen del código:** Elige **"GitHub"** 🐙
+    * **Plan de hosting:** Elige el plan **"Gratis"** para comenzar sin preocupaciones 🆓
+    * **Origen del código:** Selecciona **"GitHub"** 🐙
 
 * **Detalles del repositorio:**
     * Autoriza Azure para acceder a tu cuenta de GitHub
