@@ -75,3 +75,31 @@ Esto generará la carpeta mágica `dist/`, que contiene todos los archivos optim
 **Alberto José Hincapié Martínez**  
 **Estudiante de Ingeniería de Sistemas**  
 **GitHub:** [https://github.com/Albertohincapie11](https://github.com/Albertohincapie11) 
+
+***
+
+## 🌟✨ EL MAESTRO POKÉ-DESARROLLADOR ✨🌟
+
+<div align="center" style="border: 3px solid #ffcb05; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #f5f7fa 0%, #e4f0fc 100%); margin: 20px 0;">
+
+[![GitHub Follow](https://img.shields.io/github/followers/Albertohincapie11?style=social&label=Síguelo%20en%20GitHub!)](https://github.com/Albertohincapie11)
+
+### 🧙‍♂️ **Alberto José Hincapié Martínez**  
+#### *"Ingeniero de Sistemas en Entrenamiento Pokémon"*  
+
+[![Portafolio Badge](https://img.shields.io/badge/🎮_Mi_Universo_Digital-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Albertohincapie11)
+
+</div>
+
+### 🏆 Habilidades Especiales:
+- ✨ **Transforma café** ☕ **en código** (Habilidad Oculta: Debugging Infinito)
+- ⚡ **Nivel 99** en Angular (¡Como un Charizard nivel 100!)
+- ☁️ **Domador de Azure** (Cloud Trainer Certificado)
+
+### 📜 Stats Académicos:
+```python
+def vida_estudiante():
+    semestre = 9
+    asignaturas_aprobadas = 42
+    proyectos_legendarios = [this_pokedex, ...]
+    return "🚀 En camino a ser Maestro Pokémon Digital"
