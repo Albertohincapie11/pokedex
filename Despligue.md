@@ -47,7 +47,7 @@ Esto generará la carpeta mágica `dist/`, que contiene todos los archivos optim
 
 ***
 
-### 3. ¡A Desplegar en Azure! ☁️
+### 3. ¡Es Hora de Desplegar en Azure! 🚀
 * **Ve al [Azure Portal](https://portal.azure.com) 🚪**
 
 * **Busca y selecciona **"Static Web Apps"** y haz clic en **"Crear"**.**
