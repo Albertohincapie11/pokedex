@@ -26,7 +26,6 @@
 **Asegúrate de que tu proyecto Angular funciona correctamente en local. Ejecuta `ng serve` para verificarlo.**
 
 **Construye tu proyecto para producción:**
-***
 
 Abre una terminal desde la carpeta raíz:
 
