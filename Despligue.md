@@ -92,14 +92,12 @@ Esto generará la carpeta mágica `dist/`, que contiene todos los archivos optim
 </div>
 
 ### 🏆 Habilidades Especiales:
-- ✨ **Transforma café** ☕ **en código** (Habilidad Oculta: Debugging Infinito)
-- ⚡ **Nivel 99** en Angular (¡Como un Charizard nivel 100!)
-- ☁️ **Domador de Azure** (Cloud Trainer Certificado)
-
-### 📜 Stats Académicos:
-```python
-def vida_estudiante():
-    semestre = 9
-    asignaturas_aprobadas = 42
-    proyectos_legendarios = [this_pokedex, ...]
-    return "🚀 En camino a ser Maestro Pokémon Digital"
+- 🛠️ **Auxiliar Multifuncional**: Sistemas/IT/TIC (¡Como un Porygon digital!)
+- 💻 **Desarrollo de Software**: Full Stack Trainer (Angular + Azure)
+- 🔐 **Ciberseguridad**: Protegiendo datos como un Snorlax guardián
+- 🖥️ **Mantenimiento de Computadores**: Curando PCs como un Chansey
+- 🎨 **Herramientas Digitales**: 
+  - Excel (¡Más preciso que un ataque de Precision!)
+  - Photoshop (Ilusionista como Zoroark)
+- ⚕️ **SG-SST (50 Horas)**: Entrenado en seguridad laboral
+- 📢 **Marketing Digital**: Atrapando audiencias como un Jigglypuff
