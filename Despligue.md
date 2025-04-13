@@ -39,11 +39,14 @@ Abre una terminal desde la carpeta raíz:
    `npm run build`
 
 Esto generará la carpeta mágica `dist/`, que contiene todos los archivos optimizados listos para ser desplegados.
+
 ***
 
 ### 2.  Sube tu Código a GitHub 📂
 
 * **Mi repositorio es: [https://github.com/Albertohincapie11/pokedex-alberto]**
+
+***
 
 ### 3. ¡A Desplegar en Azure! ☁️
 * **Ve al [Azure Portal](https://portal.azure.com) 🚪**
@@ -66,6 +69,8 @@ Esto generará la carpeta mágica `dist/`, que contiene todos los archivos optim
     * **Output folder:** `dist/pokedex-angular`
 
 * Azure creará automáticamente un **flujo de trabajo de GitHub Actions** 🤖. Este flujo se encargará de compilar y desplegar tu Pokédex cada vez que hagas cambios en la rama seleccionada. 
+
+***
 
 ## 🙌 Autor
 **Alberto José Hincapié Martínez**  
