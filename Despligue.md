@@ -12,7 +12,7 @@
 
 ## 📦 Proyecto: Pokédex Angular
 
-**Este proyecto es una Pokédex desarrollada con el poderoso framework Angular, y la desplegaremos como una Web Estática usando Azure Static Web Apps para aprovechar su escalabilidad y facilidad de uso.**
+**Este proyecto consiste en una Pokédex desarrollada con el increíble framework Angular, y la desplegaremos como una Web Estática utilizando Azure Static Web Apps. Esto nos permitirá aprovechar al máximo su escalabilidad, rendimiento optimizado y facilidad de implementación. ¡Una combinación perfecta de tecnología para un proyecto que es tan ágil como un Pikachu en su mejor momento! ⚡️✨**
 
 ---
 
