@@ -2,11 +2,11 @@
 
 ### Link de la web en la nube: [https://thankful-smoke-0d3c2e110.6.azurestaticapps.net/](https://thankful-smoke-0d3c2e110.6.azurestaticapps.net/)
 
-✍️ **Autor:** Alberto José Hincapié Martínez 👨‍💻  
-📂 **Repositorio:** [https://github.com/Albertohincapie11/pokedex-alberto](https://github.com/Albertohincapie11/pokedex-alberto) 🐙  
-📚 **Asignatura:** Sistemas Distribuidos 📚  
-🎓 **Semestre:** 9no semestre - Ingeniería de Sistemas 🎓  
-📅 **Fecha:** 13/04/2025 📅
+✍️ **Autor:** Alberto José Hincapié Martínez   
+📂 **Repositorio:** [https://github.com/Albertohincapie11/pokedex-alberto](https://github.com/Albertohincapie11/pokedex-alberto)   
+📚 **Asignatura:** Sistemas Distribuidos   
+🎓 **Semestre:** 9no semestre - Ingeniería de Sistemas   
+📅 **Fecha:** 13/04/2025 
 
 ---
 
