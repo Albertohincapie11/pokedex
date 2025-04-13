@@ -41,7 +41,7 @@ Esto generará la carpeta mágica `dist/`, que contiene todos los archivos optim
 
 ***
 
-### 2. 🚀 ¡Sube tu Código a GitHub! 📂
+### 2. ¡Sube tu Código a GitHub! 📂
 
 * **Mi repositorio es: [https://github.com/Albertohincapie11/pokedex-alberto](https://github.com/Albertohincapie11/pokedex-alberto)**
 
