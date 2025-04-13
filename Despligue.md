@@ -71,13 +71,6 @@ Esto generará la carpeta mágica `dist/`, que contiene todos los archivos optim
 
 ***
 
-## 🙌 Autor
-**Alberto José Hincapié Martínez**  
-**Estudiante de Ingeniería de Sistemas**  
-**GitHub:** [https://github.com/Albertohincapie11](https://github.com/Albertohincapie11) 
-
-***
-
 ## 🌟 **Creador del Proyecto** 🙌
 
 <div align="center" style="border: 3px solid #ffcb05; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #f5f7fa 0%, #e4f0fc 100%); margin: 20px 0;">
