@@ -41,11 +41,12 @@ Esto generará la carpeta mágica `dist/`, que contiene todos los archivos optim
 
 ***
 
-### 2.  Sube tu Código a GitHub 📂
+### 2. 🚀 **¡Sube tu Código a GitHub!** 📂
 
-* **Mi repositorio es: [https://github.com/Albertohincapie11/pokedex-alberto](https://github.com/Albertohincapie11/pokedex-alberto)**
+* **Mi repositorio es:** [**pokedex-alberto**](https://github.com/Albertohincapie11/pokedex-alberto) 🐙
 
 ***
+
 
 ### 3. ¡Es Hora de Desplegar en Azure! 🚀
 * **Accede al [Azure Portal](https://portal.azure.com) 🚪**
