@@ -37,9 +37,9 @@
     
     npm run build
 
+    Esto generará la carpeta mágica `dist/`, que contiene todos los archivos optimizados listos para ser desplegados.
 
 ```
-    Esto generará la carpeta mágica `dist/`, que contiene todos los archivos optimizados listos para ser desplegados.
 
 ### 2.  Sube tu Código a GitHub 📂
 
